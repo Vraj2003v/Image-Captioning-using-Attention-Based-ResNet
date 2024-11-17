@@ -16,7 +16,6 @@
 - [Installation](#installation)
 - [Deployement on Streamlit](#deployement-on-streamlit)
 - [Directory Tree](#directory-tree)
-- [Bug / Feature Request](#bug--feature-request)
 - [Future Scope](#future-scope)
 
 ## Demo
